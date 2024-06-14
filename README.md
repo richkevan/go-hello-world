@@ -5,7 +5,7 @@ I am an experienced python/django & node/typescript fullstack engineer. In a que
 I have done a little with Go, but not deep dived into like my current learning journey. This is my first commit of my deep dive to learn this language and add it to my skillset.
 
 In addition to Go I am also going to be refreshing/broadening my knowledge of
-1. Node/Typescrip
+1. Node/Typescript
 2. Python/Django
 3. Php/Laravel 
 
@@ -25,3 +25,4 @@ I hope you will follow me adventures and cheer me on along the way
 
 ### My learning journey
 1. [go-hello-world](https://github.com/richkevan/go-learning-journey/tree/main/go-hello-world)
+2. [go-playing-cards](https://github.com/richkevan/go-learning-journey/tree/main/playing-cards)
